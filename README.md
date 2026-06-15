@@ -7,7 +7,7 @@ Proje, geleneksel "reaktif" tıp anlayışını veriye dayalı "proaktif" (önle
 ---
 
 ## 📊 Veri Seti Özeti (Dataset Overview)
-* **Gözlem Sayısı:** 327 Hasta (Satır)
+* **Gözlem Sayısı:** 328 Hasta (Satır)
 * **Değişken Sayısı:** 21 Özellik (Sütun)
 * **Hedef Değişken (Target):** `Heart patient` (Sınıf Dengesizliği: %67 Sağlıklı, %33 Hasta)
 * **Veri Kalitesi:** Temizlenmiş veri seti (Eksik değer veya mükerrer kayıt bulunmamaktadır).
